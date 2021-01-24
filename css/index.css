@@ -1,0 +1,23 @@
+*{margin:0px;
+	padding:0px;
+}
+body{background-image:url(image/e.jpg);
+background-size: cover;
+background-position:center;}
+h1{text-align:center;
+font-family:sans serif;
+background:#2bad0d;
+color:#fff;}
+h2{text-align:center;
+background:#2bad0d;}
+div.menu ul{text-align:center;
+background:#2bad0d;
+color:#fff;}
+li{list-style:none;
+display:inline-flex;
+padding:20px;
+margin:20px;
+
+}
+div.menu ul li.submenu li{float:right;
+display:block;}
